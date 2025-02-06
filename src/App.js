@@ -7,6 +7,7 @@ function App() {
             <LoginForm />
         </div>
     );
+
 }
 
 export default App;
